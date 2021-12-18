@@ -1,3 +1,7 @@
 venv
-/ufc_rankings/__pycache__
-/ufc_rankings/migrations
+/app/__pycache__
+/app/migrations
+/app/.vscode
+.idea
+.vscode
+
